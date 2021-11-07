@@ -1,4 +1,9 @@
-body{
-    background-color:red;
-    color: blue;
+
+ul{
+    color:green;
+}
+
+h1{
+    color: yellow;
+    font-size: 40px;
 }
